@@ -13,6 +13,7 @@ Note: The length of the list should decrease by one every time an element is rem
 
 
 From freecodecamp page, here:
+
 https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-elements-from-a-linked-list
 
 My code runs and passes their tests, in java only.
