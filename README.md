@@ -10,3 +10,9 @@ If the element we wish to remove is the head element, we reassign the head to th
 Write a remove method that takes an element and removes it from the linked list.
 
 Note: The length of the list should decrease by one every time an element is removed from the linked list.
+
+
+From freecodecamp page, here:
+https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-elements-from-a-linked-list
+
+My code runs and passes their tests, in java only.
