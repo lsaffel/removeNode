@@ -11,9 +11,16 @@ Write a remove method that takes an element and removes it from the linked list.
 
 Note: The length of the list should decrease by one every time an element is removed from the linked list.
 
-
+--------------------------------------------------------------
 From freecodecamp page, here:
 
 https://www.freecodecamp.org/learn/coding-interview-prep/data-structures/remove-elements-from-a-linked-list
 
 My code runs and passes their tests, in java only.
+
+Some of the code was already provided in the problem. My code is between these two comment lines:
+
+// Only change code below this line
+
+// Only change code above this line
+
